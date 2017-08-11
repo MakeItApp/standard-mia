@@ -1,0 +1,3 @@
+{
+  "extends": "@makeitapp/eslint-config-mia"
+}

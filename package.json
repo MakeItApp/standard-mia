@@ -1,0 +1,28 @@
+{
+  "name": "@makeitapp/standard-mia",
+  "version": "1.0.0",
+  "description": "Standard-engine implementation for eslint-config-mia, namely standard-mia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test available"
+  },
+  "author": "mia-platform",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/MakeItApp/standard-mia#readme",
+  "url": {
+    "bugs": "https://github.com/MakeItApp/standard-mia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeItApp/standard-mia.git"
+  },
+  "bin": {
+    "standard-mia": "./bin/cli.js"
+  },
+  "dependencies": {
+    "eslint": "^4.3.0",
+    "@makeitapp/eslint-config-mia": "^1.1.0",
+    "standard-engine": "^7.1.0"
+  }
+}
