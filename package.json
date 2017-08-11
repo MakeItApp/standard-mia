@@ -1,5 +1,5 @@
 {
-  "name": "@makeitapp/standard-mia",
+  "name": "@mia-platform/standard-mia",
   "version": "1.0.0",
   "description": "Standard-engine implementation for eslint-config-mia, namely standard-mia",
   "main": "index.js",
