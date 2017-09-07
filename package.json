@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@mia-platform/eslint-config-mia": "^1.3.0",
-    "eslint": "^4.3.0",
+    "eslint": "^3.6.0",
     "standard-engine": "^7.1.0"
   }
 }
